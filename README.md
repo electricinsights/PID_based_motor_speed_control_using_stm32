@@ -1,0 +1,2 @@
+This project demonstrates motor speed control using the Proportional-Integral-Derivative (PID) technique, implemented on the STM32F103C8T6 microcontroller. The PID controller continuously adjusts the motor's input to maintain the desired speed, compensating for load variations and disturbances. By tuning the PID parameters, the system achieves precise and stable speed control, making it ideal for applications requiring accurate motor performance.
+Feel free to ask about project at muzammilanwar096@gmail.com
